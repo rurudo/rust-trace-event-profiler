@@ -1,5 +1,5 @@
 # rust-trace-event-profiler
-Capture profile data to the Trace Event Format.
+Capture profile data to the [Trace Event Format](https://github.com/catapult-project/catapult/tree/master/tracing).
 
 ## How it works
 
